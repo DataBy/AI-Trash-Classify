@@ -1,2 +1,4 @@
 # Ignorar entorno virtual
 venv/
+*.pt
+*.tflite
