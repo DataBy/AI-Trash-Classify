@@ -1,0 +1,4 @@
+aluminio
+plastico
+papel
+carton
